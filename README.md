@@ -37,17 +37,4 @@ coiu/
 │   ├── project.toml
 │   ├── README.md
 │   └── uploaded.pdf
-🧠 Core Features
-🔹 🧑‍💻 Multi-Agent Chat Support
-Agents specialized in general queries, programming, tech talk, horror themes, and greetings.
-
-🔹 📄 Smart PDF Integration
-Upload a PDF → Ask about it → Get contextual answers powered by RAG.
-
-🔹 🎤 Voice-Enabled Input
-Speak instead of type using Deepgram voice recognition.
-
-🔹 🌍 Real-Time Translation
-Select a language and get instant, accurate translations.
-![wewe](https://github.com/user-attachments/assets/4b5f6c5e-5219-4c4a-b233-e05e2a868685)
 
