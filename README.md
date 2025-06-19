@@ -51,3 +51,5 @@ Speak instead of type using Deepgram voice recognition.
 Select a language and get instant, accurate translations.
 
 ![image](https://github.com/user-attachments/assets/bf468cec-b956-4c47-8e83-87cb4c641ec9)
+![image](https://github.com/user-attachments/assets/e959ccd2-408f-4727-90d5-26909a758bd9)
+
