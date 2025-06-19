@@ -49,4 +49,4 @@ Speak instead of type using Deepgram voice recognition.
 
 🔹 🌍 Real-Time Translation
 Select a language and get instant, accurate translations.
-![image](https://github.com/user-attachments/assets/5c13557e-1757-4fb9-b8fc-abd130bb19a8)
+![image](https://github.com/user-attachments/assets/f3b7955f-42da-4289-9372-a981c7dc3add)
