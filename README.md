@@ -49,4 +49,5 @@ Speak instead of type using Deepgram voice recognition.
 
 🔹 🌍 Real-Time Translation
 Select a language and get instant, accurate translations.
-![image](https://github.com/user-attachments/assets/f3b7955f-42da-4289-9372-a981c7dc3add)
+
+![image](https://github.com/user-attachments/assets/bf468cec-b956-4c47-8e83-87cb4c641ec9)
