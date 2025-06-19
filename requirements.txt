@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+itsdangerous
