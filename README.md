@@ -50,5 +50,4 @@ Speak instead of type using Deepgram voice recognition.
 🔹 🌍 Real-Time Translation
 Select a language and get instant, accurate translations.
 ![wewe](https://github.com/user-attachments/assets/4b5f6c5e-5219-4c4a-b233-e05e2a868685)
-![image](https://github.com/user-attachments/assets/bf468cec-b956-4c47-8e83-87cb4c641ec9)
 
